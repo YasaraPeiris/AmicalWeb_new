@@ -743,3 +743,7 @@ ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
   background-color: #fed136;
 }
+section#contact .text-danger {
+  color: #f04c40;
+  font-size: 0.7em;
+}
