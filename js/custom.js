@@ -23,6 +23,7 @@ $(function(){
         updateHash: false
     });
 
+
     /* start navigation top js */
     $(window).scroll(function(){
         if($(this).scrollTop()>58){
